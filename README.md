@@ -102,23 +102,8 @@ I'm a passionate full-stack developer who transforms complex problems into elega
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathioLucas&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathioLucas&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
 
----
-
-## 🎨 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/MathioLucas?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MathioLucas&repo=your-best-repo&theme=radical&hide_border=true" alt="Featured Repo"/>
-  </a>
-</div>
-
----
-
-## 🌟 Let's Connect & Build Something Amazing
+## 🌟 Let's Connect 
 
 <div align="center">
   
@@ -140,15 +125,13 @@ I'm a passionate full-stack developer who transforms complex problems into elega
 | Performance Optimization | Built system processing 10M+ records/day on single instance |
 | Code Quality | 99.9% test coverage on production applications |
 | Learning Velocity | Mastered 3 new frameworks in the last 6 months |
-| Open Source | Contributing to developer tools used by 1000+ developers |
+| Performance Optimization | Reduced API response times from 2.3s to 180ms through database query optimization and caching |
+
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MathioLucas&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
@@ -156,7 +139,6 @@ I'm a passionate full-stack developer who transforms complex problems into elega
 
 <div align="center">
   
-### 🚀 *"Building the future, one commit at a time"* 🚀
 
 </div>
 
