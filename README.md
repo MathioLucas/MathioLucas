@@ -27,15 +27,7 @@ Check out the **best of my projects** here 👉 https://my-portfolio-five-puce-6
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathioLucas&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathioLucas&theme=radical" alt="GitHub Streak" />
-</div>
-
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathioLucas&layout=compact&theme=radical" alt="Top Languages" />
 </div>
@@ -46,10 +38,10 @@ Check out the **best of my projects** here 👉 https://my-portfolio-five-puce-6
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathio-luca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mathio-luca-3aa258290)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathioLucas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luca.mathio1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://my-portfolio-five-puce-60.vercel.app/)
 
 </div>
 
