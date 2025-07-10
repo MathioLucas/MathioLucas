@@ -26,7 +26,6 @@ I'm a passionate full-stack developer who transforms complex problems into elega
 <div align="center">
   
 ### 🌟 **[Explore My Portfolio](https://my-portfolio-five-puce-60.vercel.app/)** 🌟
-*Where innovation meets execution*
 
 </div>
 
@@ -55,7 +54,7 @@ I'm a passionate full-stack developer who transforms complex problems into elega
 
 ---
 
-## 🛠️ Arsenal of Technologies
+## 🛠️ Tech Stack
 
 <div align="center">
 
