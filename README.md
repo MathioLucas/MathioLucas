@@ -1,4 +1,4 @@
-# 👋 Welcome to My Digital Universe
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Cloud+Architecture+Wizard+%E2%98%81%EF%B8%8F;Building+Systems+That+Scale+%F0%9F%93%88;10M%2B+Records%2FDay+Processing+%F0%9F%92%AA" alt="Typing SVG" />
@@ -10,10 +10,9 @@
 
 ## 🎯 What I'm Building
 
-> *"Code is poetry written for machines to understand and humans to admire"*
 
-I'm a passionate full-stack developer who transforms complex problems into elegant, scalable solutions. Currently architecting systems that handle millions of operations while maintaining lightning-fast performance.
 
+I'm a passionate full-stack developer who transforms complex problems into elegant, scalable solutions.
 ### 🔥 Current Focus
 - 🎓 **Learning:** tRPC, Next.js App Router, Prisma
 - 🚀 **Building:** High-performance distributed systems
