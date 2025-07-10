@@ -8,7 +8,7 @@
 Check out the **best of my projects** here 👉 https://my-portfolio-five-puce-60.vercel.app/
 
 
-* 🌱 I'm currently learning **Rust, Advanced AWS and Solidity**
+* 🌱 I'm currently learning tRPC, Next.js App Router, and Prisma**
 * 👨‍💻 All of my projects are available at https://github.com/MathioLucas?tab=repositories
 * 📫 reach me at **luca.mathio1@gmail.com**
 * ⚡ Fun fact **I built a system that processes 10M+ records/day on a single AWS instance**
