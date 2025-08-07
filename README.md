@@ -12,7 +12,7 @@
 
 
 
-I'm a passionate full-stack developer who transforms complex problems into elegant, scalable solutions.
+Passionate full-stack developer
 ### 🔥 Current Focus
 - 🎓 **Learning:** tRPC, Next.js App Router, Prisma
 - 🚀 **Building:** High-performance distributed systems
